@@ -9,7 +9,7 @@
 
 ---
 
-![GitHub Pages](https://bualeksandr.github.io/WS_frontend/)
+![GitHub Pages](https://bualeksandr.github.io/ws_frontend/)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/tmt4dxx9mc9usiq5?svg=true)](https://ci.appveyor.com/project/BuAleksandr/ws-frontend)
 
